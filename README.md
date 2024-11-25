@@ -1,8 +1,8 @@
-#✨ My Unique CLI Tool
+### ✨ My Unique CLI Tool
   A simple CLI tool built using Node.js to greet users and display personal information. With colorful outputs powered by chalk and efficient command handling via commander, this project serves as a practical      example of creating a custom CLI tool.
 
 
-###🌟 Features
+### 🌟 Features
   Greet: A personalized greeting based on the user's input.
   Info: Display key personal details, including work, social media, and contact info.
 
@@ -11,7 +11,7 @@
 
   You can follow these steps to set up and use the CLI tool.
 
-###📂 1. Clone the Repository
+### 📂 1. Clone the Repository
 
   First, clone the repository to your local machine:
 
@@ -28,7 +28,7 @@ npm init -y
 ```
   This command initializes the project and creates a package.json file, which will manage the project’s dependencies.
 
-###📦 3. Install Dependencies
+### 📦 3. Install Dependencies
   Install the necessary dependencies required for this CLI tool:
 
 ```bash
