@@ -83,6 +83,7 @@ Displays your personal information such as your work, social media, and contact 
 my-cli-tool info
 ```
 Output:
+```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                           My Info                                    ║
 ╠══════════════════════════════════════════════════════════════════════╣
@@ -92,7 +93,7 @@ Output:
 ║ LinkedIn: https://linkedin.com/in/vishwagoswami                      ║
 ║ Discord: Vishwa Goswami                                              ║
 ╚══════════════════════════════════════════════════════════════════════╝
-
+```
 
 ### Structure of the Project
 
