@@ -13,7 +13,7 @@
 
 ### 📂 1. Clone the Repository
 
-  First, clone the repository to your local machine:
+ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/my-unique-cli-tool.git
@@ -34,14 +34,14 @@ npm init -y
 ```bash
 npm install chalk commander
 ```
-  This installs the chalk and commander packages, which are used for colorful output and managing CLI commands, respectively.
+This installs the chalk and commander packages, which are used for colorful output and managing CLI commands.
 
 ### ✍️ 4. Create the CLI File
 
 ### ⚙️ 5. Make the Script Executable (Optional for Unix-based Systems)
 
 ### 🔗 6. Link the CLI Tool
-  To make your CLI tool globally accessible from anywhere in your terminal, link it using:
+To make your CLI tool globally accessible from anywhere in your terminal, link it using:
 
 ```bash
 npm link
@@ -98,26 +98,26 @@ Output:
 
 ### 🛠 Project Structure
 📁 index.js or bin/card.js
-  It contains the core CLI logic for handling commands.
+It contains the core CLI logic for handling commands.
 
 📄 package.json
-  Holds metadata about the project, including its name, dependencies, and commands.
+Holds metadata about the project, including its name, dependencies, and commands.
 
 📂 node_modules/
-  Includes all installed dependencies.
+Includes all installed dependencies.
 
 
 ### ⚙️ Development Workflow
-  ### Install Dependencies:
-    Run npm install to install required packages like chalk and commander.
-  ### Build Commands:
-    Could you define your custom commands and flags inside index.js or the relevant file?
-  ### Link Your CLI Tool: 
-    Run npm link to globally link the CLI tool and make it available across your system.  
+### Install Dependencies:
+  Run npm install to install required packages like chalk and commander.
+### Build Commands:
+  Could you define your custom commands and flags inside index.js or the relevant file?
+### Link Your CLI Tool: 
+  Run npm link to globally link the CLI tool and make it available across your system.  
   ### Publish:
-    Optionally, if you'd like to publish your CLI tool on npm, run npm publish.
+  Optionally, if you'd like to publish your CLI tool on npm, run npm publish.
 ### 📜 License
-    This project is licensed under the MIT License - see the LICENSE file for details.
+  This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
